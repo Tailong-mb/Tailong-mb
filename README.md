@@ -13,12 +13,5 @@
 
 </br>
 <p align="center" >
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailong-mb"> </p>
-</br>
-
----
-
-</br>
-<p align="center" >
 <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tailong-mb&show_icons=true&theme=tokyonight&count_private=true&hide=contribs"></p>
 </br>
