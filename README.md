@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael !</h1>
 <h3 align="center">A passionate student from France</h3>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Tailong-mb&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Michael-Bardou"
+  />
+</p>
+
 - 🔭 I’m currently working on [Exercism](https://github.com/Tailong-mb/Exercism)
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -13,5 +20,16 @@
 
 </br>
 <p align="center" >
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tailong-mb&show_icons=true&theme=tokyonight&count_private=true&hide=contribs"></p>
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats-mocha-ten-50.vercel.app/api?username=Tailong-mb&show_icons=true&theme=tokyonight&count_private=true&hide=contribs"></p>
 </br>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-mocha-ten-50.vercel.app/api/top-langs?username=Tailong-mb&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter Notebook,PHP"
+    alt="Michael-Bardou"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tailong-mb&count_private=true&theme=tokyonight"
+    alt="Michael-Bardou"
+  />
+</div>
