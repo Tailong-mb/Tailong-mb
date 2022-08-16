@@ -28,8 +28,4 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Tailong-mb&count_private=true&theme=tokyonight"
     alt="Michael-Bardou"
   />
-    /**<img
-    src="https://github-readme-stats-mocha-ten-50.vercel.app/api/top-langs?username=Tailong-mb&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter Notebook,PHP"
-    alt="Michael-Bardou"
-  />**/
 </div>
