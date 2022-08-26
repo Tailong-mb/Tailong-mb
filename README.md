@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Exercism](https://github.com/Tailong-mb/Exercism)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Three.js**
 
 - 📫 How to reach me **michael.bardou@icloud.com**
 
