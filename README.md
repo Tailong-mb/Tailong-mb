@@ -8,8 +8,6 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Exercism](https://github.com/Tailong-mb/Exercism)
-
 - 🌱 I’m currently learning **Three.js**
 
 - 📫 How to reach me **contact@michaelbardou.com**
