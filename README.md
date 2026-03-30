@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael !</h1>
-<h3 align="center">A passionate student from France</h3>
+<h3 align="center">A passionate creative developper from France</h3>
 
 <p align="center">
   <img
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 📫 How to reach me **michael.bardou@icloud.com**
+- 📫 How to reach me **contact@michaelbardou.com**
 
 <h3 align="center">Languages and Tools:</h3>
 
